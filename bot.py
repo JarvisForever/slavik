@@ -1,3 +1,5 @@
+Если ты это прочитал напиши мне в телеграм
+
 import telebot
 
 bot = telebot.TeleBot('1005767344:AAGf-nzkeK6uKMr9vdRiJRrqwOWHdNO0XNw')
