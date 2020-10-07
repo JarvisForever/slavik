@@ -1,11 +1,3 @@
-Если ты это прочитал напиши мне в телеграм
-
-Ну написал
-
-С чем я тебя и поздравляю
-
-спасибо
-
 import telebot
 
 bot = telebot.TeleBot('1005767344:AAGf-nzkeK6uKMr9vdRiJRrqwOWHdNO0XNw')
